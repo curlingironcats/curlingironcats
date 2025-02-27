@@ -1,7 +1,7 @@
 # CS325 - GitHub Pages Project
 
 ## 🌐 Live Website
-[🔗](https://curlingironcats.github.io/curlingironcats/)
+ [🔗 Check it out](https://curlingironcats.github.io/curlingironcats/)
 
 ## About
 Instead of cloning someone else's template, I decided to reuse and enhance a previous portfolio website I built while working through the **Python Crash Course** book. I made some improvements:
